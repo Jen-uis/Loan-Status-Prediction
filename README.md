@@ -1,4 +1,4 @@
-# loan-status-prediction
+# Loan-Status-Prediction
 This repository contains project materials for the Winter STAT 206 class, University of California, Riverside, A. Gary Anderson School of Management. This project is completed in Julia (or .jl). We used Jupyter Notebook to store Julia codes.
 
 ## Introduction
