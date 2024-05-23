@@ -1,19 +1,17 @@
 # loan-status-prediction
-This repository contains project materials for the Winter STAT 206 class, University of California, Riverside, A. Gary Anderson School of Management.
+This repository contains project materials for the Winter STAT 206 class, University of California, Riverside, A. Gary Anderson School of Management. This project is completed in Julia (or .jl). We used Jupyter Notebook to store Julia codes.
 
 ## Introduction
-For those who are new to this folder, the `Project-Code.rmd`, `Project-Code.html`, and `Project-Code.Rproj` files are our main coding files. The data is originally obtained from Data.gov, link will be attached below. Feel free to explore more options beyond this analysis report.
+For those who are new to this folder, the `Project-Code.ipynb` and `Project-Code.html` files are our main coding files. The data is originally obtained from Kaggle.com, link will be attached below. Feel free to explore more options beyond this analysis report.
 
 ### Project Idea
 This project aims to develop a predictive model for loan status using a dataset containing various borrower attributes and loan details. By applying machine learning techniques, we strive to accurately predict whether a loan will be fully paid or defaulted. The analysis involves data preprocessing, feature engineering, and model training and evaluation. The insights gained from this project can help financial institutions assess loan applications more effectively, reducing the risk of defaults and improving overall decision-making in the lending process.
 
 ## Contents
-- **`Project-Code.rmd`**: R Markdown file which contains the majority of the codes.
-- **`Project-Code.html`**: HTML export of the R Markdown for easy viewing.
-- **`Project-Code.Rproj`**: Main R Project file to use for R Studio.
-- **`Paper-Report.docs`**: Documents which reports our finding and analysis during the project.
-- **`Final-Presentation.ppt`**: Presentation slides that include our final findings and analysis.
-- **`Data Folder`**: Contains the datasets used for analysis. **Disclaimer**: The data is obtained from Data.gov [Crime Data from 2020 to Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present) published by City of Los Angeles. All data are used for educational purposes only.
+- **`Project-Code.ipynb`**: A jupyter notebook which contains Julia codes.
+- **`Project-Code.html`**: HTML export of the Jupyter Notebook for easy reading.
+- **`Final-Report.docs`**: Documents which reports our finding and analysis during the project.
+- **`Data Folder`**: Contains the datasets used for analysis. This dataset is uploaded by Bhavik Jikadara. **Disclaimer**: The data is obtained from Kaggle.com [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/code) published by City of Los Angeles. All data are used for educational purposes only. Do not republish Jikadara's work without approval. License: Data files are copyrighted by the original authors
 
 ## License
 This project is licensed under the MIT License. See the **LICENSE** file for more details.
