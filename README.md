@@ -13,6 +13,9 @@ This project aims to develop a predictive model for loan status using a dataset 
 - **`Final-Report.docs`**: Documents which reports our finding and analysis during the project.
 - **`Data Folder`**: Contains the datasets used for analysis. This dataset is uploaded by Bhavik Jikadara. **Disclaimer**: The data is obtained from Kaggle.com [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/code) published by City of Los Angeles. All data are used for educational purposes only. Do not republish Jikadara's work without approval. License: Data files are copyrighted by the original authors
 
+## Note for Reader
+In the final part of the `Project-Code.ipynb`, I tried to re-run the Jupyter Notebook and encountered problems. However, for analysis purposes, we already imported the results from Jupyter Notebook to the `Final-Report.docs`, check here for detailed analysis.
+
 ## License
 This project is licensed under the MIT License. See the **LICENSE** file for more details.
 
